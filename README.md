@@ -1,21 +1,21 @@
 # Tenedor
 TrabajoPractico3
 
-Tenedor
-<<Atributos>>
-vida:entero
-velocidad:entero
-position:Vector2
-daño:entero
-sala:entero
-<<Comandos>>
-Muerte()
-Ataque(vidajugador)
-RecibirDaño(dañojugador)
-SeguirJugador(salajugador)
-<<Consultas>>
-ObtenerVida(vida)
-ObtenerSala(sala)
+Tenedor  
+<<Atributos>>  
+vida:entero  
+velocidad:entero  
+position:Vector2  
+daño:entero  
+sala:entero  
+<<Comandos>>  
+Muerte()  
+Ataque(vidajugador)  
+RecibirDaño(dañojugador)  
+SeguirJugador(salajugador)  
+<<Consultas>>  
+ObtenerVida(vida)  
+ObtenerSala(sala)  
 
 
 Este código corresponde a una adaptación de una clase de un proyecto más grande desarrollado en Godot. En el proyecto original, se trata
