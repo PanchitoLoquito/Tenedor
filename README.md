@@ -8,7 +8,7 @@ velocidad:entero
 position:Vector2  
 daño:entero  
 sala:entero  
-##Comandos
+##Comandos  
 Muerte()  
 Ataque(vidajugador)  
 RecibirDaño(dañojugador)  
