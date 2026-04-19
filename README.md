@@ -2,18 +2,18 @@
 TrabajoPractico3
 
 Tenedor  
-<<Atributos>>  
+'<<Atributos>>'  
 vida:entero  
 velocidad:entero  
 position:Vector2  
 daño:entero  
 sala:entero  
-<<Comandos>>  
+'<<Comandos>>'  
 Muerte()  
 Ataque(vidajugador)  
 RecibirDaño(dañojugador)  
 SeguirJugador(salajugador)  
-<<Consultas>>  
+'<<Consultas>>'  
 ObtenerVida(vida)  
 ObtenerSala(sala)  
 
