@@ -1,0 +1,8 @@
+C:\Users\mrcoo\source\repos\TrabajoPractico3\obj\Debug\TrabajoPractico3.csproj.AssemblyReference.cache
+C:\Users\mrcoo\source\repos\TrabajoPractico3\obj\Debug\TrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\source\repos\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe.config
+C:\Users\mrcoo\source\repos\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe
+C:\Users\mrcoo\source\repos\TrabajoPractico3\bin\Debug\TrabajoPractico3.pdb
+C:\Users\mrcoo\source\repos\TrabajoPractico3\obj\Debug\TrabajoPractico3.exe
+C:\Users\mrcoo\source\repos\TrabajoPractico3\obj\Debug\TrabajoPractico3.pdb
+C:\Users\mrcoo\source\repos\TrabajoPractico3\obj\Debug\TrabajoPractico3.exe.config
